@@ -1,0 +1,6 @@
+faster-whisper
+pandas
+scikit-learn
+pyttsx3
+llama-cpp-python
+numpy

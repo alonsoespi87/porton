@@ -1,0 +1,7 @@
+text,intent
+I want a coffee,order_drink
+Do you have cappuccino?,ask_menu
+What do you serve?,ask_menu
+Thanks,thanks
+Hello,greeting
+Bye,goodbye
